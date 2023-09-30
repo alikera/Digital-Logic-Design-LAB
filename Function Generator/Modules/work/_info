@@ -1,0 +1,661 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/UT/CA
+vamplitude_selector
+!s110 1621721087
+!i10b 1
+!s100 >@<U1:[G9moAQcBA]@QKT2
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ilg^izfd9MdGP8Dc?To8Dk3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/UT/Modelsim/ca3
+w1621721071
+8C:/UT/Modelsim/ca3/amplitude_selector.v
+FC:/UT/Modelsim/ca3/amplitude_selector.v
+!i122 882
+L0 1 3
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1621721086.000000
+!s107 C:/UT/Modelsim/ca3/amplitude_selector.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/amplitude_selector.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vDDS
+Z7 !s110 1621721083
+!i10b 1
+!s100 [6c0AKoWN[:]>lV8a7[D_0
+R0
+I@8BG9a9]64F>@1kRo]Xkz0
+R1
+R2
+w1621664789
+8C:/UT/Modelsim/ca3/DDS.v
+FC:/UT/Modelsim/ca3/DDS.v
+!i122 875
+Z8 L0 3 10
+R3
+r1
+!s85 0
+31
+Z9 !s108 1621721083.000000
+!s107 C:/UT/Modelsim/ca3/DDS.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/DDS.v|
+!i113 1
+R5
+R6
+n@d@d@s
+vdds
+!s110 1621664234
+!i10b 1
+!s100 DRNWQT`=?PU[@zHVjg>mo1
+R0
+IPKgc@FL;gYg>Y=^YdNDH`3
+R1
+R2
+w1621664138
+8C:\UT\Modelsim\ca3\DDS.v
+FC:\UT\Modelsim\ca3\DDS.v
+!i122 599
+R8
+R3
+r1
+!s85 0
+31
+!s108 1621664234.000000
+!s107 C:\UT\Modelsim\ca3\DDS.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\ca3\DDS.v|
+!i113 1
+R5
+R6
+vfull_wave
+Z10 !s110 1621721081
+!i10b 1
+!s100 FgMOMAlBTYD;]cQ^Z::iC1
+R0
+IzC@P[0RJkG>36ml?J9;]d2
+R1
+R2
+w1621720064
+8C:/UT/Modelsim/ca3/full_wave.v
+FC:/UT/Modelsim/ca3/full_wave.v
+!i122 868
+L0 2 32
+R3
+r1
+!s85 0
+31
+Z11 !s108 1621721081.000000
+!s107 C:/UT/Modelsim/ca3/full_wave.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/full_wave.v|
+!i113 1
+R5
+R6
+vhalf_wave
+R10
+!i10b 1
+!s100 dCSRb^T22UTVI60<iZGM:0
+R0
+I;hl`@5ff@1;XA]lzPhXIi2
+R1
+R2
+w1621632863
+8C:/UT/Modelsim/ca3/half_wave.v
+FC:/UT/Modelsim/ca3/half_wave.v
+!i122 870
+L0 2 31
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/UT/Modelsim/ca3/half_wave.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/half_wave.v|
+!i113 1
+R5
+R6
+vhard_block
+Z12 !s110 1621721086
+!i10b 1
+!s100 Tel>b>;?EkRKRXhmmij_I2
+R0
+IdooAHzCLLf[74nT8dQ5Oh1
+R1
+R2
+Z13 w1621678897
+Z14 8C:/UT/Modelsim/ca3/waveform_freq.vo
+Z15 FC:/UT/Modelsim/ca3/waveform_freq.vo
+!i122 881
+L0 9088 34
+R3
+r1
+!s85 0
+31
+R4
+Z16 !s107 C:/UT/Modelsim/ca3/waveform_freq.vo|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/waveform_freq.vo|
+!i113 1
+R5
+R6
+vreciprocal
+Z18 !s110 1621721080
+!i10b 1
+!s100 UL^jU78M>MGeaQHR^FN]@3
+R0
+I?1Af9iQn?::z<O=Kmz6Dh3
+R1
+R2
+w1621583569
+8C:/UT/Modelsim/ca3/reciprocal.v
+FC:/UT/Modelsim/ca3/reciprocal.v
+!i122 866
+L0 4 18
+R3
+r1
+!s85 0
+31
+Z19 !s108 1621721080.000000
+!s107 C:/UT/Modelsim/ca3/reciprocal.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/reciprocal.v|
+!i113 1
+R5
+R6
+vregister
+Z20 !s110 1621721084
+!i10b 1
+!s100 9L_HSIfIYh]>P4Xj=X^?z2
+R0
+Ig[CMiW<2?I>RQ2M2I?d:11
+R1
+R2
+w1621663981
+8C:/UT/Modelsim/ca3/register.v
+FC:/UT/Modelsim/ca3/register.v
+!i122 876
+R8
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/UT/Modelsim/ca3/register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/register.v|
+!i113 1
+R5
+R6
+vrhomboid
+Z21 !s110 1621721079
+!i10b 1
+!s100 1CjBFPX7NRdX7G81]Z8HW3
+R0
+I]K::YII<lUH;;ogUWFI0g0
+R1
+R2
+w1621526759
+8C:/UT/Modelsim/ca3/rhomboid.v
+FC:/UT/Modelsim/ca3/rhomboid.v
+!i122 863
+L0 4 46
+R3
+r1
+!s85 0
+31
+Z22 !s108 1621721079.000000
+!s107 C:/UT/Modelsim/ca3/rhomboid.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/rhomboid.v|
+!i113 1
+R5
+R6
+vring_osc
+Z23 !s110 1621721085
+!i10b 1
+!s100 [ALanDGJjTnN@e=HVUiVE3
+R0
+Ig8BV2>H^QFLh:U<9L`=;c3
+R1
+R2
+w1621666364
+8C:/UT/Modelsim/ca3/ring_osc.v
+FC:/UT/Modelsim/ca3/ring_osc.v
+!i122 879
+L0 2 13
+R3
+r1
+!s85 0
+31
+!s108 1621721085.000000
+!s107 C:/UT/Modelsim/ca3/ring_osc.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/ring_osc.v|
+!i113 1
+R5
+R6
+vsinusoidally
+Z24 !s110 1621721082
+!i10b 1
+!s100 HO?Y<;?Xz^Q5h<0;5?L9=1
+R0
+IL2f:DW60Uc9^Q<7CcbaQ53
+R1
+R2
+w1621669658
+8C:/UT/Modelsim/ca3/sinusoidally.v
+FC:/UT/Modelsim/ca3/sinusoidally.v
+!i122 872
+L0 4 42
+R3
+r1
+!s85 0
+31
+Z25 !s108 1621721082.000000
+!s107 C:/UT/Modelsim/ca3/sinusoidally.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/sinusoidally.v|
+!i113 1
+R5
+R6
+vsquare
+Z26 !s110 1621721078
+!i10b 1
+!s100 =N68H7A53@T7H2_26Uk9`3
+R0
+IFDFfR]Y93@DYXQ7FSR?1@0
+R1
+R2
+w1621580379
+8C:/UT/Modelsim/ca3/square.v
+FC:/UT/Modelsim/ca3/square.v
+!i122 861
+Z27 L0 4 34
+R3
+r1
+!s85 0
+31
+Z28 !s108 1621721078.000000
+!s107 C:/UT/Modelsim/ca3/square.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/square.v|
+!i113 1
+R5
+R6
+vtb_full_wave
+R10
+!i10b 1
+!s100 e1PC_]BXc_AbCZ6RC:?jJ0
+R0
+IOS:ZJjj06iCXOQ6f:SD6Z2
+R1
+R2
+w1621585153
+8C:/UT/Modelsim/ca3/tb_full_wave.v
+FC:/UT/Modelsim/ca3/tb_full_wave.v
+!i122 869
+Z29 L0 3 19
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/UT/Modelsim/ca3/tb_full_wave.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/tb_full_wave.v|
+!i113 1
+R5
+R6
+vtb_half_wave
+R24
+!i10b 1
+!s100 EKf7Y6ignK9Y9Wd3gM1nW1
+R0
+IZL8kAkVJOXA7oo^3dhJ9J0
+R1
+R2
+w1621632662
+8C:/UT/Modelsim/ca3/tb_half_wave.v
+FC:/UT/Modelsim/ca3/tb_half_wave.v
+!i122 871
+R29
+R3
+r1
+!s85 0
+31
+R25
+!s107 C:/UT/Modelsim/ca3/tb_half_wave.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/tb_half_wave.v|
+!i113 1
+R5
+R6
+vtb_reciprocal
+R10
+!i10b 1
+!s100 jAj@E1o7;zQ@hbU4NE_Ag3
+R0
+ISg^ChhW]GD>bVFKJJ`4e13
+R1
+R2
+w1621583107
+8C:/UT/Modelsim/ca3/tb_reciprocal.v
+FC:/UT/Modelsim/ca3/tb_reciprocal.v
+!i122 867
+Z30 L0 3 20
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/UT/Modelsim/ca3/tb_reciprocal.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/tb_reciprocal.v|
+!i113 1
+R5
+R6
+vtb_rhomboid
+R21
+!i10b 1
+!s100 :mSjdHG^_4Nn8LcL@b_781
+R0
+IIR=>K2nf[jHAJf04[M0_I2
+R1
+R2
+w1621525398
+8C:/UT/Modelsim/ca3/tb_rhomboid.v
+FC:/UT/Modelsim/ca3/tb_rhomboid.v
+!i122 864
+R30
+R3
+r1
+!s85 0
+31
+R22
+!s107 C:/UT/Modelsim/ca3/tb_rhomboid.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/tb_rhomboid.v|
+!i113 1
+R5
+R6
+vtb_sinusoidally
+R7
+!i10b 1
+!s100 :6XfRUOZ1KcPo3F:lh[Am0
+R0
+IXCTdZfm35A`kBcR7M_<dU1
+R1
+R2
+w1621633900
+8C:/UT/Modelsim/ca3/tb_sinusoidally.v
+FC:/UT/Modelsim/ca3/tb_sinusoidally.v
+!i122 873
+R29
+R3
+r1
+!s85 0
+31
+R25
+!s107 C:/UT/Modelsim/ca3/tb_sinusoidally.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/tb_sinusoidally.v|
+!i113 1
+R5
+R6
+vtb_sinusoidally_wave
+!s110 1621633741
+!i10b 1
+!s100 T2SGL_fiRfGigV<M9Dzah1
+R0
+Ie`g_OE7:L_mOnABN<=X7T1
+R1
+R2
+w1621633734
+8C:\UT\Modelsim\ca3\tb_sinusoidally.v
+FC:\UT\Modelsim\ca3\tb_sinusoidally.v
+!i122 406
+R29
+R3
+r1
+!s85 0
+31
+!s108 1621633741.000000
+!s107 C:\UT\Modelsim\ca3\tb_sinusoidally.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\ca3\tb_sinusoidally.v|
+!i113 1
+R5
+R6
+vtb_square
+R21
+!i10b 1
+!s100 J:^_0h4lNeKEJhUm0VQ^12
+R0
+INU2o=>Bz=B5lD<YcIOV382
+R1
+R2
+w1621579881
+8C:/UT/Modelsim/ca3/tb_square.v
+FC:/UT/Modelsim/ca3/tb_square.v
+!i122 862
+R30
+R3
+r1
+!s85 0
+31
+R28
+!s107 C:/UT/Modelsim/ca3/tb_square.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/tb_square.v|
+!i113 1
+R5
+R6
+vTB_square
+!s110 1621519778
+!i10b 1
+!s100 U^h<_g^1LICScGmmTM1gh3
+R0
+IkAQmG]jKf1VNz5VaMcfCk0
+R1
+R2
+w1621519377
+8C:\UT\Modelsim\ca3\tb_triangle.v
+FC:\UT\Modelsim\ca3\tb_triangle.v
+!i122 5
+R30
+R3
+r1
+!s85 0
+31
+!s108 1621519777.000000
+!s107 C:\UT\Modelsim\ca3\tb_triangle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\ca3\tb_triangle.v|
+!i113 1
+R5
+R6
+n@t@b_square
+vtb_triangle
+R26
+!i10b 1
+!s100 3ACVQih:z0`8:8cgN^RQ53
+R0
+IdTNjdJY<hM`>aU1[Mzegc1
+R1
+R2
+w1621578726
+8C:/UT/Modelsim/ca3/tb_triangle.v
+FC:/UT/Modelsim/ca3/tb_triangle.v
+!i122 860
+R30
+R3
+r1
+!s85 0
+31
+Z31 !s108 1621721077.000000
+!s107 C:/UT/Modelsim/ca3/tb_triangle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/tb_triangle.v|
+!i113 1
+R5
+R6
+vTB_waveform
+R7
+!i10b 1
+!s100 `@V:`_4LERCd9>SNST`J?0
+R0
+Ia^c69Sihnm<O9ZIDc=Ud12
+R1
+R2
+w1621659233
+8C:/UT/Modelsim/ca3/TB_waveform.v
+FC:/UT/Modelsim/ca3/TB_waveform.v
+!i122 874
+L0 3 29
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:/UT/Modelsim/ca3/TB_waveform.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/TB_waveform.v|
+!i113 1
+R5
+R6
+n@t@b_waveform
+vTB_waveform_DDS
+R20
+!i10b 1
+!s100 eSJbnJhNIW^>4gc5XK[8S2
+R0
+II?Q?K?5E:XUAi4NOOQf<72
+R1
+R2
+w1621679035
+8C:/UT/Modelsim/ca3/TB_part1.v
+FC:/UT/Modelsim/ca3/TB_part1.v
+!i122 877
+L0 3 36
+R3
+r1
+!s85 0
+31
+Z32 !s108 1621721084.000000
+!s107 C:/UT/Modelsim/ca3/TB_part1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/TB_part1.v|
+!i113 1
+R5
+R6
+n@t@b_waveform_@d@d@s
+vTB_waveform_freq
+R12
+!i10b 1
+!s100 @o[7dd^N4;99jRV`9T?AW1
+R0
+IA3MlcjFVcof8idO37Nz4_2
+R1
+R2
+w1621680141
+8C:/UT/Modelsim/ca3/TB_part2.v
+FC:/UT/Modelsim/ca3/TB_part2.v
+!i122 880
+L0 3 39
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/UT/Modelsim/ca3/TB_part2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/TB_part2.v|
+!i113 1
+R5
+R6
+n@t@b_waveform_freq
+vtriangle
+!s110 1621721077
+!i10b 1
+!s100 ]PVfifBhThFX]WeR0m][H0
+R0
+IGR_`BH0:o3;f>MTc?zhnO2
+R1
+R2
+w1621581436
+8C:/UT/Modelsim/ca3/triangle.v
+FC:/UT/Modelsim/ca3/triangle.v
+!i122 859
+R27
+R3
+r1
+!s85 0
+31
+R31
+!s107 C:/UT/Modelsim/ca3/triangle.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/triangle.v|
+!i113 1
+R5
+R6
+vwaveform_DDS
+R23
+!i10b 1
+!s100 akMXjJ9AfoBDL_T3ZR>lE2
+R0
+I`OPhGboWJjXSK5ZH@znP12
+R1
+R2
+w1621675703
+8C:/UT/Modelsim/ca3/waveform_DDS.vo
+FC:/UT/Modelsim/ca3/waveform_DDS.vo
+!i122 878
+L0 32 7899
+R3
+r1
+!s85 0
+31
+R32
+!s107 C:/UT/Modelsim/ca3/waveform_DDS.vo|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/waveform_DDS.vo|
+!i113 1
+R5
+R6
+nwaveform_@d@d@s
+vwaveform_freq
+R12
+!i10b 1
+!s100 PVFJW25cM5[XcgE6dWWij1
+R0
+IjHY3WZ=PEj87L?:iP1dPW0
+R1
+R2
+R13
+R14
+R15
+!i122 881
+L0 32 9055
+R3
+r1
+!s85 0
+31
+R4
+R16
+R17
+!i113 1
+R5
+R6
+vwaveform_generator
+R18
+!i10b 1
+!s100 KQ2h?Jc^d^>3E7zAGnoTV3
+R0
+ICJ:[XmUJCh03>_8::z@0o1
+R1
+R2
+w1621659097
+8C:/UT/Modelsim/ca3/waveform_generator_processor.v
+FC:/UT/Modelsim/ca3/waveform_generator_processor.v
+!i122 865
+L0 2 26
+R3
+r1
+!s85 0
+31
+R19
+!s107 C:/UT/Modelsim/ca3/waveform_generator_processor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/ca3/waveform_generator_processor.v|
+!i113 1
+R5
+R6
