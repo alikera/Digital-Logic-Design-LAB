@@ -1,0 +1,14 @@
+`timescale 1ns/1ns
+module Ring_TB();
+	wire out;
+	logic en;
+	RingOsc #(5,19) RR(en, out);
+
+	initial begin
+	en = 1'b0;
+	#500 en = 1'b1;
+	#500 en = 1'b0;
+	#500 en = 1'b1;
+	#5000 $stop;
+	end
+endmodule

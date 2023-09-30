@@ -1,0 +1,136 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dE:/Ali/UT/Semester 4/DLD Lab/CA/1/verilog
+vCoumter
+Z0 !s110 1618122932
+!i10b 1
+!s100 Q18L5W>oLKB[TSJJKGQWH3
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IN40_R[TU`Fo_Ob4QL6^`i2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/dr pakdel/Desktop/ALI K
+Z4 w1618121570
+Z5 8C:/Users/dr pakdel/Desktop/ALI K/Coumter.svo
+Z6 FC:/Users/dr pakdel/Desktop/ALI K/Coumter.svo
+!i122 17
+L0 32 1206
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1618122931.000000
+!s107 C:/Users/dr pakdel/Desktop/ALI K/Coumter.svo|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/dr pakdel/Desktop/ALI K/Coumter.svo|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@coumter
+vhard_block
+R0
+!i10b 1
+!s100 UYg3C`SEWSMU1F9I^B]fg3
+R1
+I0eD=hmzXKNI2ld2<70lcT0
+R2
+R3
+R4
+R5
+R6
+!i122 17
+L0 1239 34
+R7
+r1
+!s85 0
+31
+R8
+Z12 !s107 C:/Users/dr pakdel/Desktop/ALI K/Coumter.svo|
+R9
+!i113 1
+R10
+R11
+vRing_TB
+Z13 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z14 !s110 1618122931
+!i10b 1
+!s100 Jo;><heblPIocbIIPa0_P2
+R1
+IFn]507cD20BfBmI9z3BQ10
+R2
+S1
+R3
+w1618122268
+8C:/Users/dr pakdel/Desktop/ALI K/Ring_TB.sv
+FC:/Users/dr pakdel/Desktop/ALI K/Ring_TB.sv
+!i122 15
+Z15 L0 2 13
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/dr pakdel/Desktop/ALI K/Ring_TB.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dr pakdel/Desktop/ALI K/Ring_TB.sv|
+!i113 1
+Z16 o-work work -sv
+R11
+n@ring_@t@b
+vRingOsc
+R13
+R14
+!i10b 1
+!s100 5<E;A[Jlz;b<Zh3PfLlKb2
+R1
+IzWc1Q4zEz;E[99:K=ZQf:2
+R2
+S1
+R3
+w1618119528
+8C:/Users/dr pakdel/Desktop/ALI K/RingOsc.sv
+FC:/Users/dr pakdel/Desktop/ALI K/RingOsc.sv
+!i122 14
+R15
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/dr pakdel/Desktop/ALI K/RingOsc.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dr pakdel/Desktop/ALI K/RingOsc.sv|
+!i113 1
+R16
+R11
+n@ring@osc
+vTB_all
+R13
+R14
+!i10b 1
+!s100 ;0>_A@IoCeOzAK<G=32_[3
+R1
+IJjD9Zh7C?QQkXCcR=UT>a1
+R2
+S1
+R3
+w1618122925
+8C:/Users/dr pakdel/Desktop/ALI K/TB_all.sv
+FC:/Users/dr pakdel/Desktop/ALI K/TB_all.sv
+!i122 16
+L0 2 37
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/dr pakdel/Desktop/ALI K/TB_all.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/dr pakdel/Desktop/ALI K/TB_all.sv|
+!i113 1
+R16
+R11
+n@t@b_all

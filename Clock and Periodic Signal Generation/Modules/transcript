@@ -1,0 +1,29 @@
+# Load canceled
+vsim -gui work.RingOsc
+# vsim -gui work.RingOsc 
+# Start time: 11:38:06 on Apr 11,2021
+# Loading sv_std.std
+# Loading work.RingOsc
+# ** Error: (vsim-7039) The parameter 'N_I' has not been given a value.
+#    Time: 0 ps  Iteration: 0  Instance: /RingOsc File: C:/Users/dr pakdel/Desktop/ALI K/RingOsc.sv Line: 2
+# ** Error: (vsim-7039) The parameter 'DELAY' has not been given a value.
+#    Time: 0 ps  Iteration: 0  Instance: /RingOsc File: C:/Users/dr pakdel/Desktop/ALI K/RingOsc.sv Line: 2
+# Error loading design
+# End time: 11:38:06 on Apr 11,2021, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 1
+vsim -gui work.Ring_TB
+# vsim -gui work.Ring_TB 
+# Start time: 11:38:17 on Apr 11,2021
+# Loading sv_std.std
+# Loading work.Ring_TB
+# Loading work.RingOsc
+add wave -position insertpoint  \
+sim:/Ring_TB/out \
+sim:/Ring_TB/en
+run -all
+# ** Note: $stop    : C:/Users/dr pakdel/Desktop/ALI K/Ring_TB.sv(12)
+#    Time: 6500 ns  Iteration: 0  Instance: /Ring_TB
+# Break in Module Ring_TB at C:/Users/dr pakdel/Desktop/ALI K/Ring_TB.sv line 12
+quit -sim
+# End time: 11:39:23 on Apr 11,2021, Elapsed time: 0:01:06
+# Errors: 0, Warnings: 1

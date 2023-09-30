@@ -1,0 +1,30 @@
+{C:/Users/dr pakdel/Desktop/ALI K/Ring_TB.sv} {1 {vlog -work work -sv -stats=none {C:/Users/dr pakdel/Desktop/ALI K/Ring_TB.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Ring_TB
+
+Top level modules:
+	Ring_TB
+
+} {} {}} {C:/Users/dr pakdel/Desktop/ALI K/RingOsc.sv} {1 {vlog -work work -sv -stats=none {C:/Users/dr pakdel/Desktop/ALI K/RingOsc.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RingOsc
+
+Top level modules:
+	RingOsc
+
+} {} {}} {C:/Users/dr pakdel/Desktop/ALI K/TB_all.sv} {1 {vlog -work work -sv -stats=none {C:/Users/dr pakdel/Desktop/ALI K/TB_all.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_all
+
+Top level modules:
+	TB_all
+
+} {} {}} {C:/Users/dr pakdel/Desktop/ALI K/Coumter.svo} {1 {vlog -work work -stats=none {C:/Users/dr pakdel/Desktop/ALI K/Coumter.svo}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Coumter
+-- Compiling module hard_block
+
+Top level modules:
+	Coumter
+
+} {} {}}

@@ -1,0 +1,38 @@
+`timescale 1ns/1ns
+module TB_all();
+	wire q_a, q_b, q_c, q_d, q_aa, q_bb, q_cc, q_dd;
+	logic a = 1'b0, b = 1'b0, c = 1'b0, d = 1'b1, aa = 1'b1, bb = 1'b1, cc = 1'b1, dd= 1'b1;
+	logic preset;
+	logic en = 1'b0;
+	wire R_O_out;
+	RingOsc #(5, 18) rr(en, R_O_out);
+	Coumter count(
+	q_b,
+	d,
+	c,
+	b,
+	a,
+	R_O_out,
+	1'b1,
+	dd,
+	cc,
+	bb,
+	aa,
+	1'b1,
+	preset,
+	q_c,
+	q_d,
+	q_aa,
+	q_bb,
+	q_cc,
+	q_dd,
+	q_a);
+	initial begin
+	preset = 1'b0;
+	#250 en = ~en;
+	#250 preset = ~preset;
+	#250 preset = ~preset;	
+
+	#10000 $stop;
+	end
+endmodule

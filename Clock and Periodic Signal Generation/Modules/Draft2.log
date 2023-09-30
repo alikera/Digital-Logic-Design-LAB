@@ -1,0 +1,21 @@
+Circuit: * C:\Users\dr pakdel\Desktop\ALI K\Draft2.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Apr 11 11:28:40 2021
+Total elapsed time: 0.325 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 26120
+traniter = 26112
+tranpoints = 11253
+accept = 10958
+rejected = 295
+matrix size = 14
+fillins = 0
+solver = Normal
+Matrix Compiler1: 384 bytes object code size  0.3/0.2/[0.1]
+Matrix Compiler2: 776 bytes object code size  0.2/0.3/[0.2]
+
