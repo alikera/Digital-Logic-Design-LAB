@@ -1,0 +1,174 @@
+C:/UT/Modelsim/ca3/tb_reciprocal.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/tb_reciprocal.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_reciprocal
+
+Top level modules:
+	tb_reciprocal
+
+} {} {}} C:/UT/Modelsim/ca3/tb_half_wave.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/tb_half_wave.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_half_wave
+
+Top level modules:
+	tb_half_wave
+
+} {} {}} C:/UT/Modelsim/ca3/waveform_freq.vo {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/waveform_freq.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module waveform_freq
+-- Compiling module hard_block
+
+Top level modules:
+	waveform_freq
+
+} {} {}} C:/UT/Modelsim/ca3/tb_triangle.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/tb_triangle.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_triangle
+
+Top level modules:
+	tb_triangle
+
+} {} {}} C:/UT/Modelsim/ca3/TB_waveform.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/TB_waveform.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_waveform
+
+Top level modules:
+	TB_waveform
+
+} {} {}} C:/UT/Modelsim/ca3/waveform_generator_processor.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/waveform_generator_processor.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module waveform_generator
+
+Top level modules:
+	waveform_generator
+
+} {} {}} C:/UT/Modelsim/ca3/reciprocal.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/reciprocal.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module reciprocal
+
+Top level modules:
+	reciprocal
+
+} {} {}} C:/UT/Modelsim/ca3/amplitude_selector.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/amplitude_selector.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module amplitude_selector
+
+Top level modules:
+	amplitude_selector
+
+} {} {}} C:/UT/Modelsim/ca3/full_wave.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/full_wave.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module full_wave
+
+Top level modules:
+	full_wave
+
+} {} {}} C:/UT/Modelsim/ca3/TB_part1.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/TB_part1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_waveform_DDS
+
+Top level modules:
+	TB_waveform_DDS
+
+} {} {}} C:/UT/Modelsim/ca3/register.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/UT/Modelsim/ca3/tb_sinusoidally.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/tb_sinusoidally.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_sinusoidally
+
+Top level modules:
+	tb_sinusoidally
+
+} {} {}} C:/UT/Modelsim/ca3/TB_part2.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/TB_part2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_waveform_freq
+
+Top level modules:
+	TB_waveform_freq
+
+} {} {}} C:/UT/Modelsim/ca3/triangle.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/triangle.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module triangle
+
+Top level modules:
+	triangle
+
+} {} {}} C:/UT/Modelsim/ca3/tb_square.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/tb_square.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_square
+
+Top level modules:
+	tb_square
+
+} {} {}} C:/UT/Modelsim/ca3/waveform_DDS.vo {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/waveform_DDS.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module waveform_DDS
+-- Compiling module hard_block
+
+Top level modules:
+	waveform_DDS
+
+} {} {}} C:/UT/Modelsim/ca3/sinusoidally.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/sinusoidally.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module sinusoidally
+
+Top level modules:
+	sinusoidally
+
+} {} {}} C:/UT/Modelsim/ca3/tb_rhomboid.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/tb_rhomboid.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_rhomboid
+
+Top level modules:
+	tb_rhomboid
+
+} {} {}} C:/UT/Modelsim/ca3/square.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/square.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module square
+
+Top level modules:
+	square
+
+} {} {}} C:/UT/Modelsim/ca3/tb_full_wave.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/tb_full_wave.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module tb_full_wave
+
+Top level modules:
+	tb_full_wave
+
+} {} {}} C:/UT/Modelsim/ca3/DDS.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/DDS.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module DDS
+
+Top level modules:
+	DDS
+
+} {} {}} C:/UT/Modelsim/ca3/ring_osc.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/ring_osc.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ring_osc
+
+Top level modules:
+	ring_osc
+
+} {} {}} C:/UT/Modelsim/ca3/rhomboid.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/rhomboid.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rhomboid
+
+Top level modules:
+	rhomboid
+
+} {} {}} C:/UT/Modelsim/ca3/half_wave.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/half_wave.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module half_wave
+
+Top level modules:
+	half_wave
+
+} {} {}} C:/UT/Modelsim/ca3/dds_tb.v {1 {vlog -work work -stats=none C:/UT/Modelsim/ca3/dds_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+
+} {} {}}
