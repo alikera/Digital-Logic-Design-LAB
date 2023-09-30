@@ -1,0 +1,665 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/UT/Modelsim/tahvil
+vadder
+!s110 1624177651
+!i10b 1
+!s100 eCc=H`lER_4_hdzNQgFR22
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IS>Mc]K`e:@hLNSNNiNGQV3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/UT/Modelsim/CA_LAST
+w1608023351
+8C:/UT/Modelsim/CA_LAST/adder.v
+FC:/UT/Modelsim/CA_LAST/adder.v
+!i122 1051
+L0 1 5
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z4 !s108 1624177651.000000
+!s107 C:/UT/Modelsim/CA_LAST/adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/CA_LAST/adder.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vcontroller
+Z7 !s110 1624177652
+!i10b 1
+!s100 >YBmif9G@@2A75N5d7f=<2
+R0
+IhcQd2^E7YRHjkhl3G<n`82
+R1
+R2
+w1608188222
+8C:/UT/Modelsim/CA_LAST/Controller.v
+FC:/UT/Modelsim/CA_LAST/Controller.v
+!i122 1052
+L0 1 64
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/UT/Modelsim/CA_LAST/Controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/CA_LAST/Controller.v|
+!i113 1
+R5
+R6
+vcontroller_exp_acc_wrap
+Z8 !s110 1624177658
+!i10b 1
+!s100 k;EDnaVO5K;c]OT1^fN]B2
+R0
+II6UNddKjnTcjnafS`T2V52
+R1
+R2
+w1624158549
+8C:\UT\Modelsim\CA_LAST\controller_exp_acc_wrap.v
+FC:\UT\Modelsim\CA_LAST\controller_exp_acc_wrap.v
+!i122 1068
+L0 3 64
+R3
+r1
+!s85 0
+31
+Z9 !s108 1624177658.000000
+!s107 C:\UT\Modelsim\CA_LAST\controller_exp_acc_wrap.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\CA_LAST\controller_exp_acc_wrap.v|
+!i113 1
+R5
+R6
+vController_Freq_Mult
+Z10 !s110 1624177656
+!i10b 1
+!s100 89ZSzGONbYdEW:P<M?WLz0
+R0
+I3`O=CBjk1Gn<QSAzDNASF3
+R1
+R2
+w1624174400
+8C:\UT\Modelsim\CA_LAST\Controller_Freq_Mult.v
+FC:\UT\Modelsim\CA_LAST\Controller_Freq_Mult.v
+!i122 1062
+L0 3 54
+R3
+r1
+!s85 0
+31
+Z11 !s108 1624177656.000000
+!s107 C:\UT\Modelsim\CA_LAST\Controller_Freq_Mult.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\CA_LAST\Controller_Freq_Mult.v|
+!i113 1
+R5
+R6
+n@controller_@freq_@mult
+vcounter
+R7
+!i10b 1
+!s100 UQ1j^HaPSjWgWN`:a6=h<1
+R0
+I4L<omF@4E`@hX5afiIz0;0
+R1
+R2
+w1608024927
+8C:/UT/Modelsim/CA_LAST/Counter.v
+FC:/UT/Modelsim/CA_LAST/Counter.v
+!i122 1053
+Z12 L0 2 14
+R3
+r1
+!s85 0
+31
+Z13 !s108 1624177652.000000
+!s107 C:/UT/Modelsim/CA_LAST/Counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/CA_LAST/Counter.v|
+!i113 1
+R5
+R6
+vdatapath
+Z14 !s110 1624177653
+!i10b 1
+!s100 X3Sl?G^Fbb0?X:oc4_X;92
+R0
+Il;aIW^3X7A3SGQgYc<XYl1
+R1
+R2
+w1608025242
+8C:/UT/Modelsim/CA_LAST/Datapath.v
+FC:/UT/Modelsim/CA_LAST/Datapath.v
+!i122 1054
+L0 1 24
+R3
+r1
+!s85 0
+31
+R13
+!s107 C:/UT/Modelsim/CA_LAST/Datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/CA_LAST/Datapath.v|
+!i113 1
+R5
+R6
+vdp_Freq_Mult
+Z15 !s110 1624177659
+!i10b 1
+!s100 9HRCKjI4>ZH;D5bF>Mm]:0
+R0
+IkzEO]=>fEMI2;z4ob:j`H2
+R1
+R2
+w1624174070
+8C:\UT\Modelsim\CA_LAST\dp_Freq_Mult.v
+FC:\UT\Modelsim\CA_LAST\dp_Freq_Mult.v
+!i122 1071
+L0 3 5
+R3
+r1
+!s85 0
+31
+Z16 !s108 1624177659.000000
+!s107 C:\UT\Modelsim\CA_LAST\dp_Freq_Mult.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\CA_LAST\dp_Freq_Mult.v|
+!i113 1
+R5
+R6
+ndp_@freq_@mult
+vExp_Acc_Wrapper
+R10
+!i10b 1
+!s100 LPSTgIaV7izoMYGaZ9FXe1
+R0
+IiLGoD?;R7BVdLgM0kSPAS3
+R1
+R2
+w1624138837
+8C:\UT\Modelsim\CA_LAST\Exp_Acc_Wrapper.v
+FC:\UT\Modelsim\CA_LAST\Exp_Acc_Wrapper.v
+!i122 1063
+L0 3 17
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:\UT\Modelsim\CA_LAST\Exp_Acc_Wrapper.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\CA_LAST\Exp_Acc_Wrapper.v|
+!i113 1
+R5
+R6
+n@exp_@acc_@wrapper
+vexp_TB
+Z17 !s110 1624177655
+!i10b 1
+!s100 c=JCd[5gmDIf53<TjQYIH1
+R0
+I^aWI>^^<l^L9L3m0ChjNY2
+R1
+R2
+w1623935445
+8C:/UT/Modelsim/CA_LAST/exp_TB.v
+FC:/UT/Modelsim/CA_LAST/exp_TB.v
+!i122 1061
+L0 2 29
+R3
+r1
+!s85 0
+31
+!s108 1624177655.000000
+!s107 C:/UT/Modelsim/CA_LAST/exp_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/CA_LAST/exp_TB.v|
+!i113 1
+R5
+R6
+nexp_@t@b
+vexponential
+R14
+!i10b 1
+!s100 md5;Vb<:7I>l6FG0?]Gm43
+R0
+I6=BD9hS_4b_o@1TT73S@l1
+R1
+R2
+w1608023343
+8C:/UT/Modelsim/CA_LAST/exponential.v
+FC:/UT/Modelsim/CA_LAST/exponential.v
+!i122 1055
+L0 1 12
+R3
+r1
+!s85 0
+31
+Z18 !s108 1624177653.000000
+!s107 C:/UT/Modelsim/CA_LAST/exponential.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/CA_LAST/exponential.v|
+!i113 1
+R5
+R6
+vFIFO
+Z19 !s110 1624177661
+!i10b 1
+!s100 g:0hZIXZiCeazlPe;PnzL3
+R0
+I<Yom@KR6IG`M^ZSJ7efCP2
+R1
+R2
+w1624137868
+8C:\UT\Modelsim\CA_LAST\FIFO_bb.v
+FC:\UT\Modelsim\CA_LAST\FIFO_bb.v
+!i122 1076
+L0 35 20
+R3
+r1
+!s85 0
+31
+Z20 !s108 1624177661.000000
+!s107 C:\UT\Modelsim\CA_LAST\FIFO_bb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\CA_LAST\FIFO_bb.v|
+!i113 1
+R5
+R6
+n@f@i@f@o
+vfreq_div
+Z21 !s110 1624177660
+!i10b 1
+!s100 >HKWgU<ZK66_cGhWZk]da0
+R0
+I?Kme[8]k4P;c_I=nFVZl?0
+R1
+R2
+Z22 w1620151955
+Z23 8C:/UT/Modelsim/CA_LAST/freq_div.vo
+Z24 FC:/UT/Modelsim/CA_LAST/freq_div.vo
+!i122 1074
+L0 32 1294
+R3
+r1
+!s85 0
+31
+Z25 !s108 1624177660.000000
+Z26 !s107 C:/UT/Modelsim/CA_LAST/freq_div.vo|
+Z27 !s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/CA_LAST/freq_div.vo|
+!i113 1
+R5
+R6
+vFreq_Mult
+R8
+!i10b 1
+!s100 RP0BS^I8[CioOB=ojzBL61
+R0
+I4gHl`oAIC@J73cBBP^Y5;0
+R1
+R2
+w1624138844
+8C:\UT\Modelsim\CA_LAST\Freq_Mult.v
+FC:\UT\Modelsim\CA_LAST\Freq_Mult.v
+!i122 1069
+L0 3 9
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:\UT\Modelsim\CA_LAST\Freq_Mult.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\CA_LAST\Freq_Mult.v|
+!i113 1
+R5
+R6
+n@freq_@mult
+vhard_block
+R21
+!i10b 1
+!s100 CEi_463ZnT457:ffA3:L;2
+R0
+I9G=3cW]9GH4[m6k]lSFBc3
+R1
+R2
+R22
+R23
+R24
+!i122 1074
+L0 1327 34
+R3
+r1
+!s85 0
+31
+R25
+R26
+R27
+!i113 1
+R5
+R6
+vintegrated
+R19
+!i10b 1
+!s100 SUYT@2ecVe570EDQX]>@30
+R0
+IN_?YDk64meLdije_<8`Md0
+R1
+R2
+w1624177473
+8C:\UT\Modelsim\CA_LAST\TOPLEVELALL.v
+FC:\UT\Modelsim\CA_LAST\TOPLEVELALL.v
+!i122 1077
+Z28 L0 3 7
+R3
+r1
+!s85 0
+31
+R20
+!s107 C:\UT\Modelsim\CA_LAST\TOPLEVELALL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\CA_LAST\TOPLEVELALL.v|
+!i113 1
+R5
+R6
+vLUT
+R14
+!i10b 1
+!s100 JgVO?Lj==2bRMg4oCe6nH3
+R0
+IaHB3YHIE]zAV6O?og7SNc0
+R1
+R2
+w1608023407
+8C:/UT/Modelsim/CA_LAST/LUTExp.v
+FC:/UT/Modelsim/CA_LAST/LUTExp.v
+!i122 1056
+L0 1 16
+R3
+r1
+!s85 0
+31
+R18
+!s107 C:/UT/Modelsim/CA_LAST/LUTExp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/CA_LAST/LUTExp.v|
+!i113 1
+R5
+R6
+n@l@u@t
+vmultiplier
+Z29 !s110 1624177654
+!i10b 1
+!s100 OLiLEPYa]L[;Zh@Me8Z9f1
+R0
+ISVWND0Z2DJ76^OW7XWB=a1
+R1
+R2
+w1608024647
+8C:\UT\Modelsim\CA_LAST\multiplier.v
+FC:\UT\Modelsim\CA_LAST\multiplier.v
+!i122 1057
+Z30 L0 2 5
+R3
+r1
+!s85 0
+31
+R18
+!s107 C:\UT\Modelsim\CA_LAST\multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\CA_LAST\multiplier.v|
+!i113 1
+R5
+R6
+vmux2to1
+R29
+!i10b 1
+!s100 FWhMI@:R3Tdk@:__`5[C<2
+R0
+IGcV43?8L@cl8hFo7EXggb1
+R1
+R2
+w1608024418
+8C:/UT/Modelsim/CA_LAST/mux2to1.v
+FC:/UT/Modelsim/CA_LAST/mux2to1.v
+!i122 1058
+R30
+R3
+r1
+!s85 0
+31
+Z31 !s108 1624177654.000000
+!s107 C:/UT/Modelsim/CA_LAST/mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/CA_LAST/mux2to1.v|
+!i113 1
+R5
+R6
+vregister
+R29
+!i10b 1
+!s100 7cl4m`oQk9Q7i<YFIboml2
+R0
+I`CS;oG^JD>eUVRcMkF5>G3
+R1
+R2
+w1608024873
+8C:/UT/Modelsim/CA_LAST/register.v
+FC:/UT/Modelsim/CA_LAST/register.v
+!i122 1059
+R12
+R3
+r1
+!s85 0
+31
+R31
+!s107 C:/UT/Modelsim/CA_LAST/register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/CA_LAST/register.v|
+!i113 1
+R5
+R6
+vregister18
+R17
+!i10b 1
+!s100 oAz243<D<a_lCnTHNlRjS2
+R0
+IYLR<4H[QJT:gz3MIJRO;J1
+R1
+R2
+w1608024837
+8C:/UT/Modelsim/CA_LAST/register18.v
+FC:/UT/Modelsim/CA_LAST/register18.v
+!i122 1060
+R12
+R3
+r1
+!s85 0
+31
+R31
+!s107 C:/UT/Modelsim/CA_LAST/register18.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/CA_LAST/register18.v|
+!i113 1
+R5
+R6
+vshift
+R21
+!i10b 1
+!s100 nCi6V^PO@gbdF]Jkd<LSZ3
+R0
+Ij0Y6z^jG<PX?c1cC;90E<0
+R1
+R2
+w1624167764
+8C:\UT\Modelsim\CA_LAST\shift.v
+FC:\UT\Modelsim\CA_LAST\shift.v
+!i122 1073
+L0 3 4
+R3
+r1
+!s85 0
+31
+R25
+!s107 C:\UT\Modelsim\CA_LAST\shift.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\CA_LAST\shift.v|
+!i113 1
+R5
+R6
+vshift_comb
+Z32 !s110 1624177657
+!i10b 1
+!s100 _EMd^m[IifGY]0i7z6MS83
+R0
+I_im;RbE]RYVA@g3nT`9NK0
+R1
+R2
+w1624099048
+8C:/UT/Modelsim/CA_LAST/shift_comb.v
+FC:/UT/Modelsim/CA_LAST/shift_comb.v
+!i122 1066
+R28
+R3
+r1
+!s85 0
+31
+Z33 !s108 1624177657.000000
+!s107 C:/UT/Modelsim/CA_LAST/shift_comb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/CA_LAST/shift_comb.v|
+!i113 1
+R5
+R6
+vshift_reg
+R32
+!i10b 1
+!s100 6L8b98YA?7HQS<lZCJ77S0
+R0
+I8R?3]chk`C:l2n<C@L8]I2
+R1
+R2
+w1624094190
+8C:/UT/Modelsim/CA_LAST/shift_reg.v
+FC:/UT/Modelsim/CA_LAST/shift_reg.v
+!i122 1064
+L0 3 13
+R3
+r1
+!s85 0
+31
+R11
+!s107 C:/UT/Modelsim/CA_LAST/shift_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/CA_LAST/shift_reg.v|
+!i113 1
+R5
+R6
+vTB_Freq_Mult
+R15
+!i10b 1
+!s100 LWQ_1=><N918eGmZaEf]^3
+R0
+I?WRRQ0m8QoOUacb2<azoB3
+R1
+R2
+w1624159285
+8C:\UT\Modelsim\CA_LAST\TB_Freq_Mult.v
+FC:\UT\Modelsim\CA_LAST\TB_Freq_Mult.v
+!i122 1070
+L0 3 27
+R3
+r1
+!s85 0
+31
+R9
+!s107 C:\UT\Modelsim\CA_LAST\TB_Freq_Mult.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\CA_LAST\TB_Freq_Mult.v|
+!i113 1
+R5
+R6
+n@t@b_@freq_@mult
+vTB_temp
+R8
+!i10b 1
+!s100 0_W:UVfOYOE3@l_GQG3?V0
+R0
+IfNToiW5fgGT?AKOFj??:61
+R1
+R2
+w1624174388
+8C:\UT\Modelsim\CA_LAST\TB_temp.v
+FC:\UT\Modelsim\CA_LAST\TB_temp.v
+!i122 1067
+L0 3 34
+R3
+r1
+!s85 0
+31
+R33
+!s107 C:\UT\Modelsim\CA_LAST\TB_temp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\CA_LAST\TB_temp.v|
+!i113 1
+R5
+R6
+n@t@b_temp
+vTBALL
+!s110 1624177801
+!i10b 1
+!s100 `8YG:^PW>Wz3gO5mB>d6:3
+R0
+IjD?J;[:4jKeOJDm`]Z`6i3
+R1
+R2
+w1624177784
+8C:\UT\Modelsim\CA_LAST\TBALL.v
+FC:\UT\Modelsim\CA_LAST\TBALL.v
+!i122 1079
+L0 3 48
+R3
+r1
+!s85 0
+31
+!s108 1624177801.000000
+!s107 C:\UT\Modelsim\CA_LAST\TBALL.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\CA_LAST\TBALL.v|
+!i113 1
+R5
+R6
+n@t@b@a@l@l
+vtop_level
+R15
+!i10b 1
+!s100 iQ;55el_=lFBF]K_J7STb2
+R0
+I;=2FV@LO^5IihOEEREkMD3
+R1
+R2
+w1624172265
+8C:\UT\Modelsim\CA_LAST\top_level_freq_mult.v
+FC:\UT\Modelsim\CA_LAST\top_level_freq_mult.v
+!i122 1072
+L0 3 6
+R3
+r1
+!s85 0
+31
+R16
+!s107 C:\UT\Modelsim\CA_LAST\top_level_freq_mult.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\UT\Modelsim\CA_LAST\top_level_freq_mult.v|
+!i113 1
+R5
+R6
+vui_reg
+R32
+!i10b 1
+!s100 P7OYmV7<bT5CMInG>e0O?0
+R0
+InZ6Gg4=47CCZ<7EjOC]Cf1
+R1
+R2
+w1624094758
+8C:/UT/Modelsim/CA_LAST/ui_reg.v
+FC:/UT/Modelsim/CA_LAST/ui_reg.v
+!i122 1065
+L0 3 10
+R3
+r1
+!s85 0
+31
+R33
+!s107 C:/UT/Modelsim/CA_LAST/ui_reg.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/UT/Modelsim/CA_LAST/ui_reg.v|
+!i113 1
+R5
+R6

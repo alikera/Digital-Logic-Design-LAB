@@ -1,0 +1,2188 @@
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of FIFO_bb.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of Controller_Freq_Mult.v failed with 1 errors.
+# Compile of Controller_Freq_Mult.v failed with 2 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of TB_temp.v was successful.
+vsim -gui work.TB_temp
+# vsim -gui work.TB_temp 
+# Start time: 21:37:26 on Jun 19,2021
+# Loading work.TB_temp
+# Loading work.Controller_Freq_Mult
+# ** Warning: (vsim-3015) [PCDPC] - Port size (1) does not match connection size (8) for port 'counter'. The port definition is at: C:/UT/Modelsim/CA_LAST/Controller_Freq_Mult.v(3).
+#    Time: 0 ns  Iteration: 0  Instance: /TB_temp/cfm File: C:/UT/Modelsim/CA_LAST/TB_temp.v Line: 7
+add wave -position insertpoint  \
+sim:/TB_temp/adj \
+sim:/TB_temp/clk \
+sim:/TB_temp/infreq \
+sim:/TB_temp/out \
+sim:/TB_temp/rst
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: acer  Hostname: DESKTOP-C2EUN1E  ProcessID: 7476
+#           Attempting to use alternate WLF file "./wlftgawts7".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftgawts7
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(19)
+#    Time: 600 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 19
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# 23 compiles, 1 failed with 3 errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+# Loading work.Controller_Freq_Mult
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(19)
+#    Time: 600 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 19
+add wave -position insertpoint  \
+sim:/TB_temp/cfm/nstate \
+sim:/TB_temp/cfm/pstate
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# 23 compiles, 1 failed with 3 errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+# Loading work.Controller_Freq_Mult
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(19)
+#    Time: 600 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 19
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# 23 compiles, 1 failed with 3 errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+# Loading work.Controller_Freq_Mult
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(19)
+#    Time: 600 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 19
+# Compile of TB_temp.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(19)
+#    Time: 600 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 19
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# 23 compiles, 1 failed with 3 errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+# Loading work.Controller_Freq_Mult
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(19)
+#    Time: 600 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 19
+# Compile of TB_temp.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(19)
+#    Time: 600 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 19
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# 23 compiles, 1 failed with 3 errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+# Loading work.Controller_Freq_Mult
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(19)
+#    Time: 600 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 19
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# 23 compiles, 1 failed with 3 errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+# Loading work.Controller_Freq_Mult
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(19)
+#    Time: 1500 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 19
+# Compile of TB_temp.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(19)
+#    Time: 1500 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 19
+# Compile of TB_temp.v was successful.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# 23 compiles, 1 failed with 3 errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+# Loading work.Controller_Freq_Mult
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(19)
+#    Time: 1500 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 19
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# 23 compiles, 1 failed with 3 errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+# Loading work.Controller_Freq_Mult
+run -all
+#############  Autofindloop Analysis  ###############
+#############  Loop found at time 610 ns ###############
+#   Active process: /TB_temp/cfm/#IMPLICIT-WIRE(counter)#7 @ sub-iteration 0
+#     Source: C:/UT/Modelsim/CA_LAST/TB_temp.v:7
+#   Active process: /TB_temp/cfm/#IMPLICIT-WIRE(counter)#7 @ sub-iteration 1
+#     Source: C:/UT/Modelsim/CA_LAST/TB_temp.v:7
+#   Active process: /TB_temp/cfm/#IMPLICIT-WIRE(counter)#7 @ sub-iteration 2
+#     Source: C:/UT/Modelsim/CA_LAST/TB_temp.v:7
+################# END OF LOOP #################
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 610 ns.
+######## Additional Loop Analysis Started ##########
+##############  Autofindloop Step ##################
+#   Active process: /TB_temp/cfm/#IMPLICIT-WIRE(counter)#7
+#     Source: C:/UT/Modelsim/CA_LAST/TB_temp.v:7
+#   Active process: /TB_temp/cfm/#ALWAYS#29
+#     Source: C:/UT/Modelsim/CA_LAST/TB_temp.v:7
+###################################################
+# Break key hit
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# 23 compiles, 1 failed with 3 errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+# Loading work.Controller_Freq_Mult
+run -all
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 610 ns.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v failed with 2 errors.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# 23 compiles, 2 failed with 5 errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+run -all
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 610 ns.
+# Break key hit
+quit -sim
+# End time: 21:55:03 on Jun 19,2021, Elapsed time: 0:17:37
+# Errors: 1, Warnings: 1
+vsim -gui work.TB_temp
+# vsim -gui work.TB_temp 
+# Start time: 21:55:19 on Jun 19,2021
+# Loading work.TB_temp
+# Loading work.Controller_Freq_Mult
+add wave -position insertpoint  \
+sim:/TB_temp/adj \
+sim:/TB_temp/clk \
+sim:/TB_temp/infreq \
+sim:/TB_temp/out \
+sim:/TB_temp/rst
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: acer  Hostname: DESKTOP-C2EUN1E  ProcessID: 7476
+#           Attempting to use alternate WLF file "./wlfthf3key".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlfthf3key
+add wave -position insertpoint  \
+sim:/TB_temp/cfm/counter
+run -all
+#############  Autofindloop Analysis  ###############
+#############  Loop found at time 610 ns ###############
+#   Active process: /TB_temp/cfm/#IMPLICIT-WIRE(counter)#7 @ sub-iteration 0
+#     Source: C:/UT/Modelsim/CA_LAST/TB_temp.v:7
+#   Active process: /TB_temp/cfm/#IMPLICIT-WIRE(counter)#7 @ sub-iteration 1
+#     Source: C:/UT/Modelsim/CA_LAST/TB_temp.v:7
+#   Active process: /TB_temp/cfm/#IMPLICIT-WIRE(counter)#7 @ sub-iteration 2
+#     Source: C:/UT/Modelsim/CA_LAST/TB_temp.v:7
+################# END OF LOOP #################
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 610 ns.
+######## Additional Loop Analysis Started ##########
+##############  Autofindloop Step ##################
+#   Active process: /TB_temp/cfm/#IMPLICIT-WIRE(counter)#7
+#     Source: C:/UT/Modelsim/CA_LAST/TB_temp.v:7
+#   Active process: /TB_temp/cfm/#ALWAYS#29
+#     Source: C:/UT/Modelsim/CA_LAST/TB_temp.v:7
+###################################################
+add wave -position insertpoint  \
+sim:/TB_temp/cfm/nstate \
+sim:/TB_temp/cfm/pstate
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 610 ns.
+# Compile of TB_temp.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+run -all
+# ** Error (suppressible): (vsim-3601) Iteration limit 5000 reached at time 610 ns.
+# Break key hit
+quit -sim
+vsim -gui work.TB_temp
+# End time: 21:57:27 on Jun 19,2021, Elapsed time: 0:02:08
+# Errors: 1, Warnings: 1
+# vsim -gui work.TB_temp 
+# Start time: 21:57:27 on Jun 19,2021
+# Loading work.TB_temp
+# Loading work.Controller_Freq_Mult
+quit -sim
+# End time: 21:57:49 on Jun 19,2021, Elapsed time: 0:00:22
+# Errors: 0, Warnings: 1
+# Compile of TB_temp.v was successful.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v failed with 2 errors.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# 23 compiles, 2 failed with 5 errors.
+# Compile of Controller_Freq_Mult.v failed with 1 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+vsim -gui work.TB_temp
+# vsim -gui work.TB_temp 
+# Start time: 21:59:31 on Jun 19,2021
+# Loading work.TB_temp
+# Loading work.Controller_Freq_Mult
+add wave -position insertpoint  \
+sim:/TB_temp/adj \
+sim:/TB_temp/clk \
+sim:/TB_temp/infreq \
+sim:/TB_temp/out \
+sim:/TB_temp/rst
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: acer  Hostname: DESKTOP-C2EUN1E  ProcessID: 7476
+#           Attempting to use alternate WLF file "./wlftsg3d1v".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftsg3d1v
+add wave -position insertpoint  \
+sim:/TB_temp/cfm/counter \
+sim:/TB_temp/cfm/nstate \
+sim:/TB_temp/cfm/pstate
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(19)
+#    Time: 5500 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 19
+# Compile of Controller_Freq_Mult.v was successful.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.Controller_Freq_Mult
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(19)
+#    Time: 5500 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 19
+quit -sim
+# End time: 22:07:00 on Jun 19,2021, Elapsed time: 0:07:29
+# Errors: 0, Warnings: 1
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v failed with 2 errors.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# Compile of dp_Freq_Mult.v failed with 1 errors.
+# Compile of top_level_freq_mult.v was successful.
+# 25 compiles, 3 failed with 6 errors.
+# Compile of Controller_Freq_Mult.v failed with 2 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of dp_Freq_Mult.v was successful.
+vsim -gui work.TB_Freq_Mult
+# vsim -gui work.TB_Freq_Mult 
+# Start time: 22:20:42 on Jun 19,2021
+# Loading work.TB_Freq_Mult
+# Loading work.Freq_Mult
+# Loading work.Exp_Acc_Wrapper
+# Loading work.shift_reg
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+# Loading work.shift_comb
+# Loading work.ui_reg
+# Loading work.FIFO
+# Loading work.controller_exp_acc_wrap
+add wave -position insertpoint  \
+sim:/TB_Freq_Mult/clk \
+sim:/TB_Freq_Mult/done \
+sim:/TB_Freq_Mult/rst \
+sim:/TB_Freq_Mult/start \
+sim:/TB_Freq_Mult/ui \
+sim:/TB_Freq_Mult/vi
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: acer  Hostname: DESKTOP-C2EUN1E  ProcessID: 7476
+#           Attempting to use alternate WLF file "./wlftkghix7".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftkghix7
+quit -sim
+# End time: 22:21:20 on Jun 19,2021, Elapsed time: 0:00:38
+# Errors: 0, Warnings: 9
+# Load canceled
+vsim -gui work.TB_temp
+# vsim -gui work.TB_temp 
+# Start time: 22:23:09 on Jun 19,2021
+# Loading work.TB_temp
+# Loading work.top_level
+# Loading work.dp_Freq_Mult
+# Loading work.Controller_Freq_Mult
+add wave -position insertpoint  \
+sim:/TB_temp/adj \
+sim:/TB_temp/clk \
+sim:/TB_temp/infreq \
+sim:/TB_temp/n \
+sim:/TB_temp/out \
+sim:/TB_temp/rst
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: acer  Hostname: DESKTOP-C2EUN1E  ProcessID: 7476
+#           Attempting to use alternate WLF file "./wlftekc8nq".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftekc8nq
+add wave -position insertpoint  \
+sim:/TB_temp/tl/dfm/cnt \
+sim:/TB_temp/tl/dfm/k \
+sim:/TB_temp/tl/dfm/n
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(21)
+#    Time: 5600 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 21
+add wave -position insertpoint  \
+sim:/TB_temp/tl/dfm/ready
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(21)
+#    Time: 5600 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 21
+quit -sim
+# End time: 22:37:13 on Jun 19,2021, Elapsed time: 0:14:04
+# Errors: 0, Warnings: 1
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# Compile of dp_Freq_Mult.v was successful.
+# Compile of top_level_freq_mult.v was successful.
+# Compile of shift.v failed with 2 errors.
+# 26 compiles, 2 failed with 5 errors.
+# Compile of FIFO.v was successful.
+# Compile of shift.v failed with 1 errors.
+# Compile of shift.v was successful.
+vsim -gui work.TB_temp
+# vsim -gui work.TB_temp 
+# Start time: 22:43:13 on Jun 19,2021
+# Loading work.TB_temp
+# Loading work.top_level
+# Loading work.dp_Freq_Mult
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'shift'.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm File: C:/UT/Modelsim/CA_LAST/dp_Freq_Mult.v Line: 5
+# Loading work.Controller_Freq_Mult
+# Error loading design
+# End time: 22:43:13 on Jun 19,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 6
+# Compile of dp_Freq_Mult.v was successful.
+vsim -gui work.TB_temp
+# vsim -gui work.TB_temp 
+# Start time: 22:43:51 on Jun 19,2021
+# Loading work.TB_temp
+# Loading work.top_level
+# Loading work.dp_Freq_Mult
+# Loading work.shift
+# Loading work.Controller_Freq_Mult
+add wave -position insertpoint  \
+sim:/TB_temp/adj \
+sim:/TB_temp/clk \
+sim:/TB_temp/infreq \
+sim:/TB_temp/n \
+sim:/TB_temp/out \
+sim:/TB_temp/rst
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: acer  Hostname: DESKTOP-C2EUN1E  ProcessID: 7476
+#           Attempting to use alternate WLF file "./wlftyfsa2d".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftyfsa2d
+add wave -position insertpoint  \
+sim:/TB_temp/tl/dfm/cnt \
+sim:/TB_temp/tl/dfm/k \
+sim:/TB_temp/tl/dfm/n
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(21)
+#    Time: 5600 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 21
+quit -sim
+# End time: 22:44:56 on Jun 19,2021, Elapsed time: 0:01:05
+# Errors: 0, Warnings: 4
+# Compile of freq_div.vo was successful.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# Compile of dp_Freq_Mult.v was successful.
+# Compile of top_level_freq_mult.v failed with 1 errors.
+# Compile of shift.v was successful.
+# Compile of freq_div.vo was successful.
+# 27 compiles, 2 failed with 4 errors.
+# Compile of freq_div.vo was successful.
+# Compile of top_level_freq_mult.v was successful.
+vsim -gui work.TB_temp
+# vsim -gui work.TB_temp 
+# Start time: 23:58:20 on Jun 19,2021
+# Loading work.TB_temp
+# Loading work.top_level
+# Loading work.dp_Freq_Mult
+# Loading work.shift
+# ** Error: (vsim-3037) Missing instance name in instantiation of 'freq_div'.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm File: C:/UT/Modelsim/CA_LAST/dp_Freq_Mult.v Line: 6
+# Loading work.Controller_Freq_Mult
+# Error loading design
+# End time: 23:58:20 on Jun 19,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 6
+# Compile of top_level_freq_mult.v was successful.
+# Compile of dp_Freq_Mult.v was successful.
+vsim -gui work.TB_temp
+# vsim -gui work.TB_temp 
+# Start time: 23:58:56 on Jun 19,2021
+# Loading work.TB_temp
+# Loading work.top_level
+# Loading work.dp_Freq_Mult
+# Loading work.shift
+# Loading work.freq_div
+# Loading work.hard_block
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 168
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 181
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 194
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 207
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 220
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 233
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 246
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 259
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 272
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 285
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 298
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 308
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 318
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 335
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 345
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 355
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 372
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 382
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 399
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 409
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 426
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 436
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 446
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 463
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 480
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 497
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 516
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 533
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 550
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 567
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 586
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 603
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 620
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 637
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 656
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 673
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 690
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 700
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 717
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 734
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 751
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 768
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 787
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 804
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 821
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 838
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 855
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 874
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 891
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 908
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 925
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 944
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 961
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 971
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 981
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 998
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1015
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1032
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1049
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1066
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1085
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1102
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_clkctrl' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1119
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1132
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1149
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1166
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1183
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1202
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1219
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1236
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1253
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1270
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1287
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# Loading work.Controller_Freq_Mult
+# Error loading design
+# End time: 23:58:57 on Jun 19,2021, Elapsed time: 0:00:01
+# Errors: 73, Warnings: 3
+vsim -gui work.TB_temp -sdftyp /fdiv=C:/UT/Modelsim/CA_LAST/freq_div_v.sdo
+# vsim -gui work.TB_temp -sdftyp "/fdiv=C:/UT/Modelsim/CA_LAST/freq_div_v.sdo" 
+# Start time: 23:59:40 on Jun 19,2021
+# Loading work.TB_temp
+# Loading work.top_level
+# Loading work.dp_Freq_Mult
+# Loading work.shift
+# Loading work.freq_div
+# Loading work.hard_block
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 168
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 181
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 194
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 207
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 220
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 233
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 246
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 259
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 272
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 285
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 298
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 308
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 318
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 335
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 345
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 355
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 372
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 382
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 399
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 409
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 426
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 436
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 446
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 463
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 480
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 497
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 516
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 533
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 550
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 567
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 586
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 603
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 620
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 637
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 656
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 673
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 690
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 700
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 717
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 734
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 751
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 768
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 787
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 804
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 821
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 838
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 855
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 874
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 891
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 908
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 925
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 944
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 961
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 971
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 981
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 998
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1015
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1032
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1049
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1066
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1085
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1102
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_clkctrl' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1119
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1132
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1149
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1166
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1183
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1202
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1219
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1236
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1253
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1270
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tl/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1287
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# Loading work.Controller_Freq_Mult
+# Error loading design
+# End time: 23:59:40 on Jun 19,2021, Elapsed time: 0:00:00
+# Errors: 73, Warnings: 1
+# Compile of TB_temp.v was successful.
+vsim -gui -sdftyp /tt=C:/UT/Modelsim/CA_LAST/freq_div_v.sdo work.TB_temp
+# vsim -gui -sdftyp "/tt=C:/UT/Modelsim/CA_LAST/freq_div_v.sdo" work.TB_temp 
+# Start time: 00:00:19 on Jun 20,2021
+# Loading work.TB_temp
+# Loading work.top_level
+# Loading work.dp_Freq_Mult
+# Loading work.shift
+# Loading work.freq_div
+# Loading work.hard_block
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 168
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 181
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 194
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 207
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 220
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 233
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 246
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 259
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 272
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_obuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 285
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 298
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 308
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 318
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 335
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 345
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 355
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 372
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 382
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 399
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 409
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 426
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 436
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 446
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 463
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 480
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 497
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 516
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 533
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 550
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 567
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 586
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 603
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 620
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 637
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 656
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 673
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 690
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 700
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 717
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 734
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 751
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 768
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 787
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 804
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 821
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 838
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 855
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 874
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 891
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 908
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 925
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 944
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 961
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_io_ibuf' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 971
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 981
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 998
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1015
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1032
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1049
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1066
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1085
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1102
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_clkctrl' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1119
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1132
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1149
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1166
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1183
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1202
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1219
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1236
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1253
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'cycloneive_lcell_comb' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1270
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# ** Error: (vsim-3033) Instantiation of 'dffeas' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp/tt/dfm/fdiv File: C:/UT/Modelsim/CA_LAST/freq_div.vo Line: 1287
+#         Searched libraries:
+#             C:/UT/Modelsim/CA_LAST/work
+# Loading work.Controller_Freq_Mult
+# Error loading design
+# End time: 00:00:20 on Jun 20,2021, Elapsed time: 0:00:01
+# Errors: 73, Warnings: 2
+vsim -gui -sdftyp /tt=C:/UT/Modelsim/CA_LAST/freq_div_v.sdo work.TB_temp -L cycloneiv_ver -L cycloneive_ver -L altera_ver
+# vsim -gui -sdftyp "/tt=C:/UT/Modelsim/CA_LAST/freq_div_v.sdo" work.TB_temp -L cycloneiv_ver -L cycloneive_ver -L altera_ver 
+# Start time: 00:01:02 on Jun 20,2021
+# Loading work.TB_temp
+# Loading work.top_level
+# Loading work.dp_Freq_Mult
+# Loading work.shift
+# Loading work.freq_div
+# Loading work.hard_block
+# Loading cycloneive_ver.cycloneive_io_obuf
+# Loading cycloneive_ver.cycloneive_io_ibuf
+# Loading cycloneive_ver.cycloneive_lcell_comb
+# Loading altera_ver.dffeas
+# Loading cycloneive_ver.cycloneive_clkctrl
+# Loading cycloneive_ver.cycloneive_mux41
+# Loading cycloneive_ver.cycloneive_ena_reg
+# Loading work.Controller_Freq_Mult
+# SDF 2020.1 Compiler 2020.02 Feb 28 2020
+# 
+# Loading instances from C:/UT/Modelsim/CA_LAST/freq_div_v.sdo
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(45): Failed to find INSTANCE '\CO~output '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(177): Failed to find INSTANCE '\DN~input '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(125): Failed to find INSTANCE '\W[0]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(115): Failed to find INSTANCE '\W[1]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(105): Failed to find INSTANCE '\W[2]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(95): Failed to find INSTANCE '\W[3]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(85): Failed to find INSTANCE '\W[4]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(75): Failed to find INSTANCE '\W[5]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(65): Failed to find INSTANCE '\W[6]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(55): Failed to find INSTANCE '\W[7]~output '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(264): Failed to find INSTANCE '\clk_in~input '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(255): Failed to find INSTANCE '\in[0]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(232): Failed to find INSTANCE '\in[1]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(209): Failed to find INSTANCE '\in[2]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(477): Failed to find INSTANCE '\in[3]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(145): Failed to find INSTANCE '\in[4]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(186): Failed to find INSTANCE '\in[5]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(154): Failed to find INSTANCE '\in[6]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(711): Failed to find INSTANCE '\in[7]~input '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(734): Failed to find INSTANCE '\ins1|22 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(720): Failed to find INSTANCE '\ins1|23~1 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(808): Failed to find INSTANCE '\ins1|23~2 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(780): Failed to find INSTANCE '\ins1|23~3 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(792): Failed to find INSTANCE '\ins1|23~_emulated '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(163): Failed to find INSTANCE '\ins1|24~1 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(686): Failed to find INSTANCE '\ins1|24~2 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(658): Failed to find INSTANCE '\ins1|24~3 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(670): Failed to find INSTANCE '\ins1|24~_emulated '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(195): Failed to find INSTANCE '\ins1|25~1 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(626): Failed to find INSTANCE '\ins1|25~2 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(598): Failed to find INSTANCE '\ins1|25~3 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(610): Failed to find INSTANCE '\ins1|25~_emulated '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(849): Failed to find INSTANCE '\ins1|26~1 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(905): Failed to find INSTANCE '\ins1|26~2 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(877): Failed to find INSTANCE '\ins1|26~3 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(889): Failed to find INSTANCE '\ins1|26~_emulated '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(937): Failed to find INSTANCE '\ins1|27~0 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(750): Failed to find INSTANCE '\ins1|51~0 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(766): Failed to find INSTANCE '\ins1|91 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(642): Failed to find INSTANCE '\ins1|92 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(584): Failed to find INSTANCE '\ins1|93 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(863): Failed to find INSTANCE '\ins1|94 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(461): Failed to find INSTANCE '\ins2|21~0 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(500): Failed to find INSTANCE '\ins2|22 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(486): Failed to find INSTANCE '\ins2|23~1 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(556): Failed to find INSTANCE '\ins2|23~2 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(528): Failed to find INSTANCE '\ins2|23~3 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(540): Failed to find INSTANCE '\ins2|23~_emulated '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(218): Failed to find INSTANCE '\ins2|24~1 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(445): Failed to find INSTANCE '\ins2|24~2 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(417): Failed to find INSTANCE '\ins2|24~3 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(429): Failed to find INSTANCE '\ins2|24~_emulated '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(241): Failed to find INSTANCE '\ins2|25~1 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(385): Failed to find INSTANCE '\ins2|25~2 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(357): Failed to find INSTANCE '\ins2|25~3 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(369): Failed to find INSTANCE '\ins2|25~_emulated '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(285): Failed to find INSTANCE '\ins2|26~1 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(327): Failed to find INSTANCE '\ins2|26~2 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(299): Failed to find INSTANCE '\ins2|26~3 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(311): Failed to find INSTANCE '\ins2|26~_emulated '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(572): Failed to find INSTANCE '\ins2|27 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(516): Failed to find INSTANCE '\ins2|91 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(401): Failed to find INSTANCE '\ins2|92 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(343): Failed to find INSTANCE '\ins2|93 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(273): Failed to find INSTANCE '\ins2|94 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(949): Failed to find INSTANCE '\inst10|16 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(921): Failed to find INSTANCE '\inst10|16~0 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(974): Failed to find INSTANCE '\inst4|8 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(965): Failed to find INSTANCE '\inst4|8~0 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(824): Failed to find INSTANCE '\inst|4 '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(840): Failed to find INSTANCE '\inst|4~clkctrl '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(135): Failed to find INSTANCE '\my_clk~output '.
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(702): Failed to find INSTANCE '\set~input '.
+# Loading instances from freq_div_v.sdo
+# ** Error (suppressible): (vsim-SDF-3894) : Errors occured in reading and resolving instances from compiled SDF file(s).
+# Loading altera_ver.PRIM_GDFF_LOW
+# ** Error: (vsim-SDF-3445) Failed to parse SDF file "C:/UT/Modelsim/CA_LAST/freq_div_v.sdo".
+#    Time: 0 ps  Iteration: 0  Instance: /TB_temp File: C:/UT/Modelsim/CA_LAST/TB_temp.v
+# Loading timing data from freq_div_v.sdo
+# Error loading design
+# End time: 00:01:04 on Jun 20,2021, Elapsed time: 0:00:02
+# Errors: 75, Warnings: 1
+vsim -gui -sdftyp /tt=C:/UT/Modelsim/CA_LAST/freq_div_v.sdo -L cycloneiv_ver -L cycloneive_ver -L altera_ver work.TB_Freq_Mult
+# vsim -gui -sdftyp "/tt=C:/UT/Modelsim/CA_LAST/freq_div_v.sdo" -L cycloneiv_ver -L cycloneive_ver -L altera_ver work.TB_Freq_Mult 
+# Start time: 00:10:35 on Jun 20,2021
+# Loading work.TB_Freq_Mult
+# Loading work.Freq_Mult
+# Loading work.Exp_Acc_Wrapper
+# Loading work.shift_reg
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+# Loading work.shift_comb
+# Loading work.ui_reg
+# Loading work.FIFO
+# Loading work.controller_exp_acc_wrap
+# Loading instances from C:/UT/Modelsim/CA_LAST/freq_div_v.sdo
+# ** Error (suppressible): (vsim-SDF-3250) freq_div_v.sdo(0): Failed to find INSTANCE '/tt'.
+# ** Error (suppressible): (vsim-SDF-3894) : Errors occured in reading and resolving instances from compiled SDF file(s).
+# ** Fatal: SDF files require Intel FPGA Edition primitive library
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Freq_Mult File: C:/UT/Modelsim/CA_LAST/TB_Freq_Mult.v
+# FATAL ERROR while loading design
+# Error loading design
+# End time: 00:10:36 on Jun 20,2021, Elapsed time: 0:00:01
+# Errors: 3, Warnings: 1
+vsim -gui -L cycloneiv_ver -L cycloneive_ver -L altera_ver work.TB_Freq_Mult
+# vsim -gui -L cycloneiv_ver -L cycloneive_ver -L altera_ver work.TB_Freq_Mult 
+# Start time: 00:11:06 on Jun 20,2021
+# Loading work.TB_Freq_Mult
+# Loading work.Freq_Mult
+# Loading work.Exp_Acc_Wrapper
+# Loading work.shift_reg
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+# Loading work.shift_comb
+# Loading work.ui_reg
+# Loading work.FIFO
+# Loading work.controller_exp_acc_wrap
+add wave -position insertpoint  \
+sim:/TB_Freq_Mult/clk \
+sim:/TB_Freq_Mult/done \
+sim:/TB_Freq_Mult/rst \
+sim:/TB_Freq_Mult/start \
+sim:/TB_Freq_Mult/ui \
+sim:/TB_Freq_Mult/vi
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: acer  Hostname: DESKTOP-C2EUN1E  ProcessID: 7476
+#           Attempting to use alternate WLF file "./wlftaeitmz".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftaeitmz
+add wave -position insertpoint  \
+sim:/TB_Freq_Mult/FM/q \
+sim:/TB_Freq_Mult/FM/usedw
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_Freq_Mult.v(27)
+#    Time: 10900 ns  Iteration: 0  Instance: /TB_Freq_Mult
+# Break in Module TB_Freq_Mult at C:/UT/Modelsim/CA_LAST/TB_Freq_Mult.v line 27
+quit -sim
+# End time: 00:12:14 on Jun 20,2021, Elapsed time: 0:01:08
+# Errors: 0, Warnings: 3
+# Compile of FIFO.vo was successful.
+vsim -gui -L cycloneiv_ver -L cycloneive_ver -L altera_ver work.TB_Freq_Mult
+# vsim -gui -L cycloneiv_ver -L cycloneive_ver -L altera_ver work.TB_Freq_Mult 
+# Start time: 00:13:05 on Jun 20,2021
+# Loading work.TB_Freq_Mult
+# Loading work.Freq_Mult
+# Loading work.Exp_Acc_Wrapper
+# Loading work.shift_reg
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+# Loading work.shift_comb
+# Loading work.ui_reg
+# Loading work.FIFO
+# Loading work.hard_block
+# Loading cycloneive_ver.cycloneive_io_obuf
+# Loading cycloneive_ver.cycloneive_io_ibuf
+# Loading cycloneive_ver.cycloneive_clkctrl
+# Loading cycloneive_ver.cycloneive_mux41
+# Loading cycloneive_ver.cycloneive_ena_reg
+# Loading cycloneive_ver.cycloneive_lcell_comb
+# Loading altera_ver.dffeas
+# Loading cycloneive_ver.cycloneive_ram_block
+# Loading cycloneive_ver.cycloneive_ram_register
+# Loading cycloneive_ver.cycloneive_ram_pulse_generator
+# Loading work.controller_exp_acc_wrap
+# Loading instances from FIFO_v.sdo
+# Loading altera_ver.PRIM_GDFF_LOW
+# Loading timing data from FIFO_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Freq_Mult File: C:/UT/Modelsim/CA_LAST/TB_Freq_Mult.v
+add wave -position insertpoint  \
+sim:/TB_Freq_Mult/clk \
+sim:/TB_Freq_Mult/done \
+sim:/TB_Freq_Mult/rst \
+sim:/TB_Freq_Mult/start \
+sim:/TB_Freq_Mult/ui \
+sim:/TB_Freq_Mult/vi
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: acer  Hostname: DESKTOP-C2EUN1E  ProcessID: 7476
+#           Attempting to use alternate WLF file "./wlft3ir0e7".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft3ir0e7
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_Freq_Mult.v(27)
+#    Time: 10900 ns  Iteration: 0  Instance: /TB_Freq_Mult
+# Break in Module TB_Freq_Mult at C:/UT/Modelsim/CA_LAST/TB_Freq_Mult.v line 27
+add wave -position insertpoint  \
+sim:/TB_Freq_Mult/FM/q \
+sim:/TB_Freq_Mult/FM/usedw
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading instances from FIFO_v.sdo
+# Loading timing data from FIFO_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Freq_Mult File: C:/UT/Modelsim/CA_LAST/TB_Freq_Mult.v
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_Freq_Mult.v(27)
+#    Time: 10900 ns  Iteration: 0  Instance: /TB_Freq_Mult
+# Break in Module TB_Freq_Mult at C:/UT/Modelsim/CA_LAST/TB_Freq_Mult.v line 27
+add wave -position insertpoint  \
+sim:/TB_Freq_Mult/FM/wr_req
+add wave -position insertpoint  \
+sim:/TB_Freq_Mult/FM/EAW/wr_data
+restart -f
+# Loading instances from FIFO_v.sdo
+# Loading timing data from FIFO_v.sdo
+# ** Note: (vsim-3587) SDF Backannotation Successfully Completed.
+#    Time: 0 ps  Iteration: 0  Instance: /TB_Freq_Mult File: C:/UT/Modelsim/CA_LAST/TB_Freq_Mult.v
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_Freq_Mult.v(27)
+#    Time: 10900 ns  Iteration: 0  Instance: /TB_Freq_Mult
+# Break in Module TB_Freq_Mult at C:/UT/Modelsim/CA_LAST/TB_Freq_Mult.v line 27
+# WARNING: No extended dataflow license exists
+quit -sim
+# End time: 00:18:18 on Jun 20,2021, Elapsed time: 0:05:13
+# Errors: 0, Warnings: 1
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui -L cycloneiv_ver -L cycloneive_ver -L altera_ver work.TB_Freq_Mult
+# vsim -gui -L cycloneiv_ver -L cycloneive_ver -L altera_ver work.TB_Freq_Mult 
+# Start time: 00:19:13 on Jun 20,2021
+# Loading work.TB_Freq_Mult
+# Loading work.Freq_Mult
+# Loading work.Exp_Acc_Wrapper
+# Loading work.shift_reg
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+# Loading work.shift_comb
+# Loading work.ui_reg
+# Loading work.FIFO
+# Loading work.controller_exp_acc_wrap
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint  \
+sim:/TB_Freq_Mult/clk \
+sim:/TB_Freq_Mult/done \
+sim:/TB_Freq_Mult/rst \
+sim:/TB_Freq_Mult/start \
+sim:/TB_Freq_Mult/ui \
+sim:/TB_Freq_Mult/vi
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: acer  Hostname: DESKTOP-C2EUN1E  ProcessID: 7476
+#           Attempting to use alternate WLF file "./wlftb0m4wy".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftb0m4wy
+add wave -position insertpoint  \
+sim:/TB_Freq_Mult/clk \
+sim:/TB_Freq_Mult/done \
+sim:/TB_Freq_Mult/rst \
+sim:/TB_Freq_Mult/start \
+sim:/TB_Freq_Mult/ui \
+sim:/TB_Freq_Mult/vi
+add wave -position insertpoint  \
+sim:/TB_Freq_Mult/FM/q \
+sim:/TB_Freq_Mult/FM/usedw
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_Freq_Mult.v(27)
+#    Time: 10900 ns  Iteration: 0  Instance: /TB_Freq_Mult
+# Break in Module TB_Freq_Mult at C:/UT/Modelsim/CA_LAST/TB_Freq_Mult.v line 27
+quit -sim
+# End time: 00:27:31 on Jun 20,2021, Elapsed time: 0:08:18
+# Errors: 0, Warnings: 6
+# Compile of TB_temp.v was successful.
+# Compile of dp_Freq_Mult.v was successful.
+vsim -gui -L cycloneiv_ver -L cycloneive_ver -L altera_ver work.TB_temp
+# vsim -gui -L cycloneiv_ver -L cycloneive_ver -L altera_ver work.TB_temp 
+# Start time: 00:28:28 on Jun 20,2021
+# Loading work.TB_temp
+# Loading work.top_level
+# Loading work.dp_Freq_Mult
+# Loading work.shift
+# Loading work.Controller_Freq_Mult
+add wave -position insertpoint  \
+sim:/TB_temp/adj \
+sim:/TB_temp/clk \
+sim:/TB_temp/infreq \
+sim:/TB_temp/n \
+sim:/TB_temp/out \
+sim:/TB_temp/rst
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: acer  Hostname: DESKTOP-C2EUN1E  ProcessID: 7476
+#           Attempting to use alternate WLF file "./wlftgmwrn6".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftgmwrn6
+add wave -position insertpoint  \
+sim:/TB_temp/tt/adj \
+sim:/TB_temp/tt/clk \
+sim:/TB_temp/tt/cnt \
+sim:/TB_temp/tt/CO \
+sim:/TB_temp/tt/infreq \
+sim:/TB_temp/tt/n \
+sim:/TB_temp/tt/ready \
+sim:/TB_temp/tt/rst \
+sim:/TB_temp/tt/sh_en
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(33)
+#    Time: 16200 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 33
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint  \
+sim:/TB_temp/tt/dfm/k
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(33)
+#    Time: 16200 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 33
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of dp_Freq_Mult.v was successful.
+# Compile of top_level_freq_mult.v was successful.
+# Compile of shift.v was successful.
+# Compile of freq_div.vo was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# 27 compiles, 1 failed with 3 errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+# Loading work.top_level
+# Loading work.dp_Freq_Mult
+# Loading work.shift
+# Loading work.Controller_Freq_Mult
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(23)
+#    Time: 5600 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 23
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of dp_Freq_Mult.v was successful.
+# Compile of top_level_freq_mult.v was successful.
+# Compile of shift.v was successful.
+# Compile of freq_div.vo was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# 27 compiles, 1 failed with 3 errors.
+run -all
+add wave -position insertpoint  \
+sim:/TB_temp/tt/cfm/nstate \
+sim:/TB_temp/tt/cfm/pstate
+# Break key hit
+# Break in Module Controller_Freq_Mult at C:/UT/Modelsim/CA_LAST/Controller_Freq_Mult.v line 32
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.TB_temp
+# Loading work.top_level
+# Loading work.dp_Freq_Mult
+# Loading work.shift
+# Loading work.Controller_Freq_Mult
+restart -f
+run -all
+# ** Note: $stop    : C:/UT/Modelsim/CA_LAST/TB_temp.v(33)
+#    Time: 16200 ns  Iteration: 0  Instance: /TB_temp
+# Break in Module TB_temp at C:/UT/Modelsim/CA_LAST/TB_temp.v line 33
+quit -sim
+# End time: 01:12:55 on Jun 20,2021, Elapsed time: 0:44:27
+# Errors: 0, Warnings: 1
+# Compile of TOPLEVELALL.v was successful.
+# Compile of TOPLEVELALL.v was successful.
+# Compile of adder.v was successful.
+# Compile of Controller.v was successful.
+# Compile of Counter.v was successful.
+# Compile of Datapath.v was successful.
+# Compile of exponential.v was successful.
+# Compile of LUTExp.v was successful.
+# Compile of multiplier.v was successful.
+# Compile of mux2to1.v was successful.
+# Compile of register.v was successful.
+# Compile of register18.v was successful.
+# Compile of exp_TB.v was successful.
+# Compile of Frequency_Multiplier.v failed with 3 errors.
+# Compile of Controller_Freq_Mult.v was successful.
+# Compile of Exp_Acc_Wrapper.v was successful.
+# Compile of shift_reg.v was successful.
+# Compile of ui_reg.v was successful.
+# Compile of shift_comb.v was successful.
+# Compile of TB_temp.v was successful.
+# Compile of controller_exp_acc_wrap.v was successful.
+# Compile of Freq_Mult.v was successful.
+# Compile of TB_Freq_Mult.v was successful.
+# Compile of dp_Freq_Mult.v was successful.
+# Compile of top_level_freq_mult.v was successful.
+# Compile of shift.v was successful.
+# Compile of freq_div.vo was successful.
+# Compile of FIFO.v was successful.
+# Compile of FIFO_bb.v was successful.
+# Compile of TOPLEVELALL.v was successful.
+# Compile of TBALL.v failed with 1 errors.
+# 29 compiles, 2 failed with 4 errors.
+# Compile of TBALL.v was successful.
+vsim -gui -L cycloneiv_ver -L cycloneive_ver -L altera_ver work.TBALL
+# vsim -gui -L cycloneiv_ver -L cycloneive_ver -L altera_ver work.TBALL 
+# Start time: 01:28:35 on Jun 20,2021
+# Loading work.TBALL
+# Loading work.integrated
+# Loading work.Freq_Mult
+# Loading work.Exp_Acc_Wrapper
+# Loading work.shift_reg
+# Loading work.exponential
+# Loading work.controller
+# Loading work.datapath
+# Loading work.register
+# Loading work.counter
+# Loading work.LUT
+# Loading work.mux2to1
+# Loading work.multiplier
+# Loading work.adder
+# Loading work.register18
+# Loading work.shift_comb
+# Loading work.ui_reg
+# Loading work.FIFO
+# Loading work.controller_exp_acc_wrap
+# Loading work.top_level
+# Loading work.dp_Freq_Mult
+# Loading work.shift
+# Loading work.Controller_Freq_Mult
+# ** Warning: (vsim-3015) [PCDPC] - Port size (2) does not match connection size (16) for port 'ui'. The port definition is at: C:/UT/Modelsim/CA_LAST/TOPLEVELALL.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /TBALL/integ File: C:/UT/Modelsim/CA_LAST/TBALL.v Line: 12
+# ** Warning: (vsim-3015) [PCDPC] - Port size (16) does not match connection size (2) for port 'vi'. The port definition is at: C:/UT/Modelsim/CA_LAST/TOPLEVELALL.v(3).
+#    Time: 0 ps  Iteration: 0  Instance: /TBALL/integ File: C:/UT/Modelsim/CA_LAST/TBALL.v Line: 12
+# WARNING: No extended dataflow license exists
+add wave -position insertpoint  \
+sim:/TBALL/adj \
+sim:/TBALL/clk \
+sim:/TBALL/exp_out \
+sim:/TBALL/infreq \
+sim:/TBALL/n \
+sim:/TBALL/rd_req \
+sim:/TBALL/rst \
+sim:/TBALL/start \
+sim:/TBALL/ui \
+sim:/TBALL/vi
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: acer  Hostname: DESKTOP-C2EUN1E  ProcessID: 7476
+#           Attempting to use alternate WLF file "./wlftbcvvwa".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftbcvvwa
+run -all
+# Break key hit
+# Break in Module TBALL at C:/UT/Modelsim/CA_LAST/TBALL.v line 14
+quit -sim
+# End time: 01:29:28 on Jun 20,2021, Elapsed time: 0:00:53
+# Errors: 0, Warnings: 15
+# Compile of TBALL.v was successful.

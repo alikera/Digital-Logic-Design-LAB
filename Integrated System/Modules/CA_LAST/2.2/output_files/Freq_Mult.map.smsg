@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at controller_exp_acc_wrap.v(31): always construct contains both blocking and non-blocking assignments File: C:/UT/Modelsim/CA_LAST/controller_exp_acc_wrap.v Line: 31

@@ -1,0 +1,198 @@
+C:/UT/Modelsim/CA_LAST/LUTExp.v {1 {vlog -work work -stats=none C:/UT/Modelsim/CA_LAST/LUTExp.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LUT
+
+Top level modules:
+	LUT
+
+} {} {}} C:/UT/Modelsim/CA_LAST/ui_reg.v {1 {vlog -work work -stats=none C:/UT/Modelsim/CA_LAST/ui_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ui_reg
+
+Top level modules:
+	ui_reg
+
+} {} {}} C:/UT/Modelsim/CA_LAST/shift_reg.v {1 {vlog -work work -stats=none C:/UT/Modelsim/CA_LAST/shift_reg.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_reg
+
+Top level modules:
+	shift_reg
+
+} {} {}} C:/UT/Modelsim/CA_LAST/TOPLEVELALL.v {1 {vlog -work work -stats=none {C:\UT\Modelsim\CA_LAST\TOPLEVELALL.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module integrated
+
+Top level modules:
+	integrated
+
+} {} {}} C:/UT/Modelsim/CA_LAST/FIFO.v {1 {vlog -work work -stats=none {C:\UT\Modelsim\CA_LAST\FIFO.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FIFO
+
+Top level modules:
+	FIFO
+
+} {} {}} C:/UT/Modelsim/CA_LAST/Controller.v {1 {vlog -work work -stats=none C:/UT/Modelsim/CA_LAST/Controller.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} C:/UT/Modelsim/CA_LAST/shift.v {1 {vlog -work work -stats=none {C:\UT\Modelsim\CA_LAST\shift.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift
+
+Top level modules:
+	shift
+
+} {} {}} C:/UT/Modelsim/CA_LAST/TBALL.v {1 {vlog -work work -stats=none {C:\UT\Modelsim\CA_LAST\TBALL.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TBALL
+
+Top level modules:
+	TBALL
+
+} {} {}} C:/UT/Modelsim/CA_LAST/Freq_Mult.v {1 {vlog -work work -stats=none {C:\UT\Modelsim\CA_LAST\Freq_Mult.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Freq_Mult
+
+Top level modules:
+	Freq_Mult
+
+} {} {}} C:/UT/Modelsim/CA_LAST/exponential.v {1 {vlog -work work -stats=none C:/UT/Modelsim/CA_LAST/exponential.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module exponential
+
+Top level modules:
+	exponential
+
+} {} {}} C:/UT/Modelsim/CA_LAST/Datapath.v {1 {vlog -work work -stats=none C:/UT/Modelsim/CA_LAST/Datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} C:/UT/Modelsim/CA_LAST/top_level_freq_mult.v {1 {vlog -work work -stats=none {C:\UT\Modelsim\CA_LAST\top_level_freq_mult.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module top_level
+
+Top level modules:
+	top_level
+
+} {} {}} C:/UT/Modelsim/CA_LAST/mux2to1.v {1 {vlog -work work -stats=none C:/UT/Modelsim/CA_LAST/mux2to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} C:/UT/Modelsim/CA_LAST/Counter.v {1 {vlog -work work -stats=none C:/UT/Modelsim/CA_LAST/Counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} C:/UT/Modelsim/CA_LAST/dp_Freq_Mult.v {1 {vlog -work work -stats=none {C:\UT\Modelsim\CA_LAST\dp_Freq_Mult.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module dp_Freq_Mult
+
+Top level modules:
+	dp_Freq_Mult
+
+} {} {}} C:/UT/Modelsim/CA_LAST/Controller_Freq_Mult.v {1 {vlog -work work -stats=none {C:\UT\Modelsim\CA_LAST\Controller_Freq_Mult.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controller_Freq_Mult
+
+Top level modules:
+	Controller_Freq_Mult
+
+} {} {}} C:/UT/Modelsim/CA_LAST/exp_TB.v {1 {vlog -work work -stats=none C:/UT/Modelsim/CA_LAST/exp_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module exp_TB
+
+Top level modules:
+	exp_TB
+
+} {} {}} C:/UT/Modelsim/CA_LAST/TB_temp.v {1 {vlog -work work -stats=none {C:\UT\Modelsim\CA_LAST\TB_temp.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_temp
+
+Top level modules:
+	TB_temp
+
+} {} {}} C:/UT/Modelsim/CA_LAST/Exp_Acc_Wrapper.v {1 {vlog -work work -stats=none {C:\UT\Modelsim\CA_LAST\Exp_Acc_Wrapper.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Exp_Acc_Wrapper
+
+Top level modules:
+	Exp_Acc_Wrapper
+
+} {} {}} C:/UT/Modelsim/CA_LAST/TB_Freq_Mult.v {1 {vlog -work work -stats=none {C:\UT\Modelsim\CA_LAST\TB_Freq_Mult.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module TB_Freq_Mult
+
+Top level modules:
+	TB_Freq_Mult
+
+} {} {}} C:/UT/Modelsim/CA_LAST/register.v {1 {vlog -work work -stats=none C:/UT/Modelsim/CA_LAST/register.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} C:/UT/Modelsim/CA_LAST/register18.v {1 {vlog -work work -stats=none C:/UT/Modelsim/CA_LAST/register18.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register18
+
+Top level modules:
+	register18
+
+} {} {}} C:/UT/Modelsim/CA_LAST/shift_comb.v {1 {vlog -work work -stats=none C:/UT/Modelsim/CA_LAST/shift_comb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module shift_comb
+
+Top level modules:
+	shift_comb
+
+} {} {}} C:/UT/Modelsim/CA_LAST/FIFO_bb.v {1 {vlog -work work -stats=none {C:\UT\Modelsim\CA_LAST\FIFO_bb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module FIFO
+
+Top level modules:
+	FIFO
+
+} {} {}} C:/UT/Modelsim/CA_LAST/freq_div.vo {1 {vlog -work work -stats=none C:/UT/Modelsim/CA_LAST/freq_div.vo
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module freq_div
+-- Compiling module hard_block
+
+Top level modules:
+	freq_div
+
+} {} {}} C:/UT/Modelsim/CA_LAST/multiplier.v {1 {vlog -work work -stats=none {C:\UT\Modelsim\CA_LAST\multiplier.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} C:/UT/Modelsim/CA_LAST/controller_exp_acc_wrap.v {1 {vlog -work work -stats=none {C:\UT\Modelsim\CA_LAST\controller_exp_acc_wrap.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller_exp_acc_wrap
+
+Top level modules:
+	controller_exp_acc_wrap
+
+} {} {}} C:/UT/Modelsim/CA_LAST/adder.v {1 {vlog -work work -stats=none C:/UT/Modelsim/CA_LAST/adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}}
